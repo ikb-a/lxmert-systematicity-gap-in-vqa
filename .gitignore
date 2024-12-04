@@ -1,0 +1,10 @@
+*.caffemodel
+*.tsv
+/snap
+env
+.idea
+**/__pycache__/
+lxmert_sym_env/
+alt_env
+*.out
+UtilsEnv
